@@ -1,0 +1,31 @@
+app_name: NimHunt
+category: Earning
+tagline: Create Spots. Explore Locations. Claim NIM.
+description: NimHunt is a geofaucet and prizedraw mini-app for Nimiq Pay.
+  Creators fund location-based Spots, while nearby users discover them via app,
+  visit in person, and claim free NIM or enter free draws.
+pricing: Free
+repo_url: https://github.com/NIMHunt/nim-hunt
+demo_url: https://nimhunt.app
+video_url: https://youtu.be/ckeDf-iLEFY
+contact_email: dneiper@protonmail.com
+team_name: null
+team_members: null
+x_account: NIM_Hunt
+builder_story: "I am not a programmer, but I've been interested in Nimiq for
+  years. Other than HODLing, I felt like I couldn't contribute to nimiq. I
+  thought I would give this a go since AI was expressly permitted. I've tried
+  cool crypto apps before, so I thought I would try my hand at making one.\r
+
+  Long, long ago, I enjoyed the NANO app, WeNano. So why not make something for
+  the obviously superior crypto?"
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: NIMHunt
+submitted_at: 2026-07-26T18:33:18.450Z
