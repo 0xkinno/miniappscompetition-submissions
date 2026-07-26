@@ -20,7 +20,7 @@
 | Link | URL |
 | --- | --- |
 | Repo | [https://github.com/NimMiniApps/NimConnect](<https://github.com/NimMiniApps/NimConnect>) |
-| Demo | [https://www.youtube.com/shorts/n5f2ka7I8GI](<https://www.youtube.com/shorts/n5f2ka7I8GI>) |
+| Demo | [https://nimconnect.nimiqminiapps.com](<https://nimconnect.nimiqminiapps.com>) |
 | Video | [https://www.youtube.com/watch?v=vFwWc2TUGXw](<https://www.youtube.com/watch?v=vFwWc2TUGXw>) |
 
 ## Description
