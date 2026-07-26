@@ -1,0 +1,30 @@
+app_name: NimConnect
+category: Social
+tagline: Human-friendly crypto starts here.
+description: NimConnect transforms your wallet into a people-first experience.
+  Claim a permanent @handle, manage contacts, send and request payments, split
+  bills, and use your identity seamlessly across Nimiq Mini Apps.
+pricing: Free
+repo_url: https://github.com/NimMiniApps/NimConnect
+demo_url: https://nimconnect.nimiqminiapps.com
+video_url: https://www.youtube.com/watch?v=vFwWc2TUGXw
+contact_email: meastro@protonmail.com
+team_name: null
+team_members: null
+x_account: https://x.com/nimiqminiapps
+builder_story: Crypto wallets are still built around long addresses instead of
+  people. I wanted to create the missing identity layer for the Nimiq
+  ecosystem—a place where users can claim human-readable @handles, manage
+  relationships, and interact with others naturally. NimConnect makes payments
+  feel personal while providing reusable identity infrastructure that any Nimiq
+  Mini App can integrate.
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: maestroi
+submitted_at: 2026-07-26T20:10:56.181Z
