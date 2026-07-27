@@ -1,0 +1,24 @@
+app_name: Nim Dare
+category: Social
+tagline: Dare your friends. Prove it. Win NIM.
+description: NIM Dare is a social challenge Mini App for Nimiq Pay. Create and
+  share dares, submit proof, choose a winner, and send non-custodial NIM rewards
+  directly from your wallet.
+pricing: Free
+repo_url: https://github.com/Mayorken/NIM-Dare
+demo_url: https://nim-dare.kennethumoekpe.chatgpt.site/
+video_url: https://youtu.be/hVq8TwfsC30
+contact_email: kennethumoekpe@gmail.com
+team_name: null
+team_members:
+  - kenneth umoekpe
+x_account: kennycrypt96
+builder_story: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+github_login: Mayorken
+submitted_at: 2026-07-27T22:20:20.398Z
