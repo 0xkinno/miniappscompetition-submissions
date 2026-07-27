@@ -1,0 +1,24 @@
+app_name: Ergon
+category: Earning
+tagline: Work On Proof
+description: Ergon is a mobile-first marketplace where users post short, paid
+  requests, pre-fund them, and define what evidence counts as completion. A
+  contributor accepts the request, submits the evidence, and the payment is
+  released according to the selected verification rule.
+pricing: Free
+repo_url: https://github.com/0xNexuz/ergon
+demo_url: https://ergonapp.vercel.app
+video_url: https://youtu.be/21TELkOH6vs?si=sNIHp5BPbzgw_eov
+contact_email: elllbest7@gmail.com
+team_name: null
+team_members: null
+x_account: magnuskrypt
+builder_story: null
+icon: icon.png
+thumbnail: thumbnail.jpg
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+github_login: 0xNexuz
+submitted_at: 2026-07-27T02:53:50.109Z
