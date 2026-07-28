@@ -1,0 +1,29 @@
+app_name: NimSub
+category: Creator tools
+tagline: Subscription Billing API
+description: It provides simple sdk to let merchants setup subscriptions for
+  their services, enable them to accept reccuring payments from customers using
+  Nimiq Pay, the subscribe button then appears in their store & the plan listed
+  in NimSub.
+pricing: Free
+repo_url: https://github.com/benraouanesoufiane/NimSub
+demo_url: https://nimsub.xyz
+video_url: https://www.youtube.com/shorts/nNIwqBxOqXc
+contact_email: benrawane2012@gmail.com
+team_name: null
+team_members: null
+x_account: benra1sofian
+builder_story: I saw web3 subscription apps are missed, first tried to built
+  with erc7710 then switched to manuall contract creation (because Nimiq sdk not
+  supprt it), it actually resolves big problem of accepting reccuring payments
+  in web3, so it's the native payment subscription provider reshaped.
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+  - screenshot-4.jpg
+  - screenshot-5.jpg
+github_login: BenraouaneSoufiane
+submitted_at: 2026-07-28T10:59:41.158Z
