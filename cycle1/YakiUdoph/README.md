@@ -20,7 +20,7 @@
 | Link | URL |
 | --- | --- |
 | Repo | [https://github.com/YakiUdoph/Vellum](<https://github.com/YakiUdoph/Vellum>) |
-| Demo | [https://vellum-tau.tan.vercel.app](<https://vellum-tau.tan.vercel.app>) |
+| Demo | [https://vellum-tau-tan.vercel.app](<https://vellum-tau-tan.vercel.app>) |
 | Video | [https://youtu.be/5iCk5FJFi6U?si=19Fc4nsj2sgkdV_p](<https://youtu.be/5iCk5FJFi6U?si=19Fc4nsj2sgkdV_p>) |
 
 ## Description
