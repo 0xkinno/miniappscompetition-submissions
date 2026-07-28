@@ -1,34 +1,49 @@
 app_name: XcrowHub
-category: Shopping & deals
-tagline: Protected deals for crypto P2P. Money stays locked in escrow until
-  delivery is confirmed. No fees on deals.
-description: XcrowHub locks buyer funds in escrow until delivery is confirmed.
-  Zero fees on private deals, 1% seller-side fee on marketplace deals. Built on
-  Nimiq Pay as a Mini App with wallet-signature auth (no KYC). Human-reviewed
-  proof-based disputes ensure fairness never automatic payou
-pricing: Free
-repo_url: https://github.com/dropxpert/xcrowhub
+category: Marketplaces
+tagline: Protected crypto deals, powered by Nimiq.
+description: XcrowHub is a wallet connected escrow marketplace for buyers,
+  sellers, and service providers. It protects private deals and marketplace
+  purchases by holding crypto until delivery is confirmed, with bidding, dispute
+  handling, and mobile and desktop access.
+pricing: Freemium
+repo_url: https://github.com/DropXpert/Xcrowhub
 demo_url: https://app.xcrowhub.com
-video_url: https://x.com/xcrowhub/status/2076548258193952909
-contact_email: dynamofaizi@gmail.com
-team_name: null
-team_members: null
+video_url: https://x.com/xcrowhub/status/2082043983203828175
+contact_email: official@xcrowhub.com
+team_name: Xcrowhub
+team_members:
+  - Tahseen Faizi (Founder & Head dev)
+  - Alveera Hafeez (Speaker)
+  - Moses (Support)
 x_account: xcrowhub
-builder_story: "Built XcrowHub solo as a Web3 founder and AI developer to fix
-  the trust gap in P2P crypto deals. Designed a zero-fee private escrow +
-  low-fee marketplace layer with wallet-only auth and human-reviewed proof
-  disputes (instead of blind smart-contract releases or centralized platforms).
-  Full end-to-end build: React + TypeScript + Tailwind frontend, Supabase
-  backend + Edge Functions, custom Node.js custody signer, Nimiq Pay Mini App
-  SDK integration, dual support for NIM and USDT (Polygon). Launched with clear
-  positioning around safer, private Web3 transactions. No KYC, no passwords,
-  on-chain finality with real human oversight for disputes."
+builder_story: "Crypto payments are fast, but online peer-to-peer deals still
+  depend heavily on trust. Buyers worry about paying before delivery, while
+  sellers worry about completing work without payment assurance. I built
+  XcrowHub to turn Nimiq-powered payments into a practical escrow workflow for
+  real products and services.\r
+
+  XcrowHub launched as a Nimiq Pay Mini App and quickly expanded to support
+  private deals, marketplace listings, bidding, payment verification, delivery
+  confirmation, referrals, support, and dispute handling. I also introduced a
+  dedicated desktop experience so users can manage longer workflows outside the
+  mobile app.\r
+
+  Within eight days of launch, XcrowHub onboarded more than 160 users, recorded
+  over 200 transactions on the Nimiq blockchain, and reached more than 12 live
+  marketplace products. I also committed 400,000 NIM to an AuthideX growth
+  campaign because distribution is as important as development.\r
+
+  Next, I plan to introduce a hiring marketplace for brands and freelancers,
+  milestone-based payments, in-app asset swaps, and broader asset support
+  through wallet integrations and the Nimiq Pay SDK. My goal is to make Nimiq
+  useful for everyday commerce, not only transfers."
 icon: icon.png
-thumbnail: thumbnail.jpg
+thumbnail: thumbnail.png
 screenshots:
-  - screenshot-1.jpg
-  - screenshot-2.jpg
-  - screenshot-3.jpg
-  - screenshot-4.jpg
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
 github_login: DropXpert
-submitted_at: 2026-07-14T09:05:31.194Z
+submitted_at: 2026-07-28T10:18:29.635Z
