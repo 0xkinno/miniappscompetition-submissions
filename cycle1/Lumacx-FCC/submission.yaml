@@ -1,0 +1,59 @@
+app_name: OtherMeApp
+category: Creator tools
+tagline: One photo → your own AI character. Scenes, clips, live voice. First 5 free
+description: Other Me turns one photo into a consistent character you can place
+  in scenes, animate into clips, and talk to live — built for creators and
+  storytellers who want a recurring character without a studio, paid per use in
+  NIM or USDT.
+pricing: Paid
+repo_url: https://github.com/Lumacx-FCC/Nimiq-MiniApps
+demo_url: https://othermeapp.com
+video_url: https://youtu.be/whnIsff4K80
+contact_email: lumacx@studioswai.com
+team_name: OtherMe
+team_members:
+  - Frenchie (Claude Sonnet 5)
+  - Juniper (ChatGPT 5.6)
+  - Raj (Gemini 3.6)
+x_account: Lumacx2
+builder_story: "My inspiration came 2 years ago when my son got a promotion and
+  move from Costa Rica to UK with my 6-year-old grand-daughter. We were happy
+  for my son but missed Abby a lot. We do video conferences regularly and they
+  keep sending us photos of their trips and events. So, I start creating AI
+  scenes and videos to play with her. (i.e.
+  https://www.youtube.com/watch?v=rMCo-v3WuxI )\r
+
+  \r
+
+  As you can see in that video, my biggest issue was consistency of characters
+  thru different scenes and LLM Models. To improve that I create a complex
+  prompt with over 30 fields that i need to adapt manually each time to generate
+  a profile character sheet to add as references.\r
+
+  \r
+
+  My first tool was the automation of that prompt so the AI analyze the image
+  automatically and filled my prompt so it was easier to change one or two
+  fields if needed.\r
+
+  \r
+
+  Now the convergence of mature AI models (ChatGPT Sol, Claude Fable /Sonnet 5,
+  and the Image/Video generations models of Google) reached an excellent level
+  for me as Business Administrator to do some Vibe-Coding and create this
+  Mini-App for Nimiq competition.\r
+
+  \r
+
+  Hope you enjoy it and make your love ones of all ages as happy as my
+  grand-daughter, my parents and myself."
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: Lumacx-FCC
+submitted_at: 2026-07-28T08:28:20.386Z
