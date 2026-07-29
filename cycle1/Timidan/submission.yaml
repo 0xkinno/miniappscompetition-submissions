@@ -1,0 +1,44 @@
+app_name: NimDrops
+category: Earning
+tagline: Send NIM.Earn NIM.  Share the moment.
+description: Create a red packet, fund it with NIM, and share one link so
+  friends can claim rewards directly into Nimiq Pay. Newcomers can also earn
+  their first NIM through skill-based trivia drops.
+pricing: Free
+repo_url: https://github.com/Timidan/nimdrops
+demo_url: https://nimdrops.timidan.xyz
+video_url: https://youtu.be/0Tjq5Cdts-E
+contact_email: timidanx@gmail.com
+team_name: null
+team_members: null
+x_account: Timidan_x
+builder_story: "I built NimDrops because sending crypto often feels cold and
+  difficult. You copy an address, check it several times, and hope you made no
+  mistake. That does not feel like giving someone a gift.\r
+
+  I took inspiration from WeChat red packets. They turn money into a shared
+  moment. One person sends a packet, others open it, and everyone knows what to
+  do.\r
+
+  I wanted NIM to feel that easy. With NimDrops, you fund a packet and share one
+  link. Friends open it and claim NIM in Nimiq Pay. They do not need to copy an
+  address. Trivia also gives new users a way to earn their first NIM through
+  knowledge, not chance.\r
+
+  I built the app alone in five days. Nimiq requires users to approve wallet
+  actions and does not support the smart contracts this app would usually use. I
+  used a custody wallet with clear notices, signed claims, expiry refunds, and
+  on-chain receipts. Each reward can only be claimed once.\r
+
+  My goal is to help more people receive their first NIM and give them a reason
+  to share it with someone else."
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+  - screenshot-4.jpg
+  - screenshot-5.jpg
+github_login: Timidan
+submitted_at: 2026-07-29T21:32:35.195Z
