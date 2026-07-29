@@ -1,0 +1,37 @@
+app_name: NimQuest
+category: Education
+tagline: Learn Nimiq by doing, then prove you learned it with your own Nimiq wallet.
+description: NimQuest is a learn-and-prove Nimiq Pay Mini App. Users complete
+  short Nimiq onboarding quests, pass server-graded quizzes, then sign a
+  one-time Nimiq Pay message to create wallet-backed proof of learning without
+  sending NIM. Verified completions are stored as receipts and shown
+pricing: Free
+repo_url: https://github.com/mystiquemide/nimquest
+demo_url: https://nimquest.artistic-chip.workers.dev
+video_url: https://youtu.be/iSwB3MyyLZM
+contact_email: mide27145@gmail.com
+team_name: null
+team_members: null
+x_account: MystiqueMide
+builder_story: "Every time I onboard to a new chain, the learning is read-only.
+  I skim a docs page, nod, and close the tab with nothing to show I understood
+  any of it. Quizzes that live in the browser are worse, the answers ship in the
+  page and you can cheat in five seconds.\r
+
+  \r
+
+  So I built the opposite. You pass a quiz that is graded on the server, then
+  you sign a one-time message with the wallet you actually control. The receipt
+  is the proof. The real receipt so far: one Meet Nimiq completion signed inside
+  Nimiq Pay on an iPhone, stored in D1, visible on the live leaderboard. No NIM
+  moved."
+icon: icon.jpg
+thumbnail: thumbnail.jpg
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+  - screenshot-4.jpg
+  - screenshot-5.jpg
+github_login: mystiquemide
+submitted_at: 2026-07-29T07:18:09.598Z
