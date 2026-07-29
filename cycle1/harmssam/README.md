@@ -21,7 +21,7 @@
 | --- | --- |
 | Repo | [https://github.com/harmssam/verilock](<https://github.com/harmssam/verilock>) |
 | Demo | [https://verilock.online/](<https://verilock.online/>) |
-| Video | [https://ComingSoon.com](<https://ComingSoon.com>) |
+| Video | [https://youtu.be/I9OGrZvuXwY](<https://youtu.be/I9OGrZvuXwY>) |
 
 ## Description
 
