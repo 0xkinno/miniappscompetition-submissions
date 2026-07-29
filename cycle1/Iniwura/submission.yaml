@@ -1,0 +1,32 @@
+app_name: Pull
+category: Marketplaces
+tagline: Post money, not products.
+description: Lock NIM behind a task instead of hiring someone directly. Post
+  what you want done, share the link, and the first person to claim it gets paid
+  on delivery.
+pricing: Free
+repo_url: https://github.com/Iniwura/pull
+demo_url: https://pull-production-3070.up.railway.app/
+video_url: https://youtu.be/GjiOzZaCdkA
+contact_email: iniwuraakuru@gmail.com
+team_name: null
+team_members: null
+x_account: saitama_xc
+builder_story: "I kept seeing the same problem everywhere:\r
+
+  \ freelance platforms make you trust a client's word, or trust a platform's
+  dispute team, before any money is real. Pull inverts that. The buyer locks
+  real NIM on-chain before anyone even claims the job, so trust isn't a promise,
+  it's a balance you can check yourself. I built the whole escrow, chat, and
+  reputation system from scratch on native NIM, using the Mini Apps SDK, because
+  I wanted the payment rail to be the actual product"
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: Iniwura
+submitted_at: 2026-07-29T17:26:12.754Z
