@@ -1,0 +1,39 @@
+app_name: Stakes
+category: Social
+tagline: Put your money where your mouth is — with your crew.
+description: "A social commitment game where you stake a little NIM on a weekly
+  goal and your friends keep you honest: check in daily and get it all back plus
+  a bonus, or forfeit a slice for every day you miss. For anyone who's ever quit
+  a good habit and wished the stakes were real."
+pricing: Free
+repo_url: https://github.com/surfstyk/stakes
+demo_url: https://stakes.surfstyk.com
+video_url: https://youtu.be/VguXZFhnG5U
+contact_email: surfstyk@yahoo.com
+team_name: null
+team_members: null
+x_account: surfstyk
+builder_story: "I kept quitting the things I cared about — the gym, the writing,
+  the early mornings — not because I couldn't, but because nothing was on the
+  line and no one was watching. Habit apps try to fix that with streaks,
+  notifications, and lately AI that literally watches you. That always felt like
+  the wrong answer: surveillance, not trust.\r
+
+  \r
+
+  Stakes is the opposite. You put a little real money on a goal and you do it
+  with your friends — the people whose opinion actually moves you. Your crew
+  keeps you honest, not an algorithm. And because it runs on Nimiq Pay, the
+  money moves instantly and gaslessly, so it feels less like crypto and more
+  like a bet between friends. That's the whole idea: make follow-through feel
+  social, real, and a little bit at stake."
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: surfstyk
+submitted_at: 2026-07-29T06:10:25.760Z
