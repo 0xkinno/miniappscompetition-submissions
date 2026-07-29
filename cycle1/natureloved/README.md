@@ -13,7 +13,7 @@
 | X account | adejoke_btc |
 | Contact email | akinolaa769@gmail.com |
 | GitHub login | @natureloved |
-| Submitted at | 2026-07-12T19:32:51.491Z |
+| Submitted at | 2026-07-29T22:44:08.351Z |
 
 ## Links
 
@@ -21,11 +21,14 @@
 | --- | --- |
 | Repo | [https://github.com/natureloved/TipWall](<https://github.com/natureloved/TipWall>) |
 | Demo | [https://tipwall.vercel.app/](<https://tipwall.vercel.app/>) |
-| Video | [https://youtube.com/shorts/HRj58B8pa5A](<https://youtube.com/shorts/HRj58B8pa5A>) |
+| Video | [https://youtu.be/dFxHXe2X0Fk](<https://youtu.be/dFxHXe2X0Fk>) |
 
 ## Description
 
-A tipping wall for creators where supporters tip NIM straight to your wallet, no platform, no fees, no sign-up.
+TipWall is a creator tipping wall.
+Creators can claim a handle and get a shareable link, supporters tap an amount and the NIM goes straight to your wallet. TipWall takes 0%.
+
+ It's for creators who give their work away for free and want a way to accept support.
 
 ## Builder story
 
@@ -48,6 +51,8 @@ The hardest problem was the person who wants to tip but doesn't have Nimiq Pay y
 ![Screenshot 3](screenshot-3.png)
 
 ![Screenshot 4](screenshot-4.png)
+
+![Screenshot 5](screenshot-5.png)
 
 ---
 
