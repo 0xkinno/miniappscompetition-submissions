@@ -1,0 +1,23 @@
+app_name: Ajoo Savings
+category: Earning
+tagline: Save to Earn
+description: A savings circle built into the NimPay App that helps people save
+  together to reach a shared goal.
+pricing: Free
+repo_url: https://github.com/YAGAMI1610/Ajoo-savings
+demo_url: https://ajoo-savings.vercel.app/
+video_url: https://youtu.be/D3OwyHIN800?si=vt_ojf-JCCSG1ayL
+contact_email: nifexagbeni@gmail.com
+team_name: Yagami
+team_members: null
+x_account: Coxo52534
+builder_story: null
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+github_login: YAGAMI1610
+submitted_at: 2026-07-29T09:44:15.871Z
