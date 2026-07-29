@@ -1,12 +1,19 @@
 app_name: TipWall
 category: Social
 tagline: Tip the creator, Not the platform.
-description: A tipping wall for creators where supporters tip NIM straight to
-  your wallet, no platform, no fees, no sign-up.
+description: "TipWall is a creator tipping wall.\r
+
+  Creators can claim a handle and get a shareable link, supporters tap an amount
+  and the NIM goes straight to your wallet. TipWall takes 0%.\r
+
+  \r
+
+  \ It's for creators who give their work away for free and want a way to accept
+  support."
 pricing: Free
 repo_url: https://github.com/natureloved/TipWall
 demo_url: https://tipwall.vercel.app/
-video_url: https://youtube.com/shorts/HRj58B8pa5A
+video_url: https://youtu.be/dFxHXe2X0Fk
 contact_email: akinolaa769@gmail.com
 team_name: Adejoke
 team_members:
@@ -44,5 +51,6 @@ screenshots:
   - screenshot-2.png
   - screenshot-3.png
   - screenshot-4.png
+  - screenshot-5.png
 github_login: natureloved
-submitted_at: 2026-07-12T19:32:51.491Z
+submitted_at: 2026-07-29T22:44:08.351Z
