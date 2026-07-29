@@ -1,0 +1,52 @@
+app_name: FLOWRIQ
+category: Productivity
+tagline: Automated recurring payments on Nimiq
+description: FLOWRIQ is a native Nimiq Mini App that lets you schedule recurring
+  crypto payments once and have them execute automatically even when you’re
+  offline. It supports NIM and USDT, connects seamlessly with the Nimiq wallet,
+  and gives you full control to manage every payment with ease
+pricing: Free
+repo_url: https://github.com/Somtiee/FLOWRIQ
+demo_url: https://www.flowriq.xyz/
+video_url: https://x.com/0xVincentee/status/2082351003001639253?s=20
+contact_email: Somtochukwuogodinma@gmail.com
+team_name: null
+team_members:
+  - "@XdiamondOgodin1"
+x_account: 0xVincentee
+builder_story: "I built FLOWRIQ out of personal frustration with how
+  underdeveloped recurring payments still are in crypto.\r
+
+  \r
+
+  While crypto has made it easy to send money across borders quickly and without
+  traditional banks, almost every wallet still treats payments as one-off
+  actions. If you need to send money every month; whether it’s rent, supporting
+  family, paying a retainer, paying for subscriptions or covering shared
+  expenses; you still have to remember to open your wallet, copy the address,
+  enter the amount and confirm the transaction every single time. It’s easy to
+  forget and it creates unnecessary stress.\r
+
+  \r
+
+  I wanted a better solution. Something where you could set the payment once,
+  fund it and let it run automatically without needing to be online or open the
+  app every time the payment is due.\r
+
+  \r
+
+  That idea became FLOWRIQ. I designed it as a native Nimiq Mini App so it could
+  integrate deeply with the Nimiq wallet and ecosystem. The goal was to make
+  recurring crypto payments feel as reliable and effortless as they should be in
+  2026; simple to set up, dependable in execution and built for real life rather
+  than just technical demos."
+icon: icon.png
+thumbnail: thumbnail.jpg
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: Somtiee
+submitted_at: 2026-07-29T09:04:33.585Z
