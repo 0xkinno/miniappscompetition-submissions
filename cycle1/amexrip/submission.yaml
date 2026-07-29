@@ -1,0 +1,22 @@
+app_name: SimplePGP
+category: Social
+tagline: Encrypted Messaging Platform
+description: On SimplePGP you can message your friends securely using PGP
+  encryption and you can trade with them aswell!
+pricing: Free
+repo_url: https://github.com/amexrip/SimplePGP
+demo_url: https://simplepgp.org/
+video_url: https://vimeo.com/1213921964?share=copy&fl=sv&fe=ci
+contact_email: royrafusemika@gmail.com
+team_name: SimplePGP
+team_members: null
+x_account: null
+builder_story: null
+icon: icon.webp
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+github_login: amexrip
+submitted_at: 2026-07-29T13:59:29.301Z
