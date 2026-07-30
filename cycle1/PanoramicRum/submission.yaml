@@ -1,9 +1,9 @@
 app_name: Nimiq Radio
 category: Social
 tagline: One shared radio. Everyone hears the same song at the same moment.
-description: Team member submission. this entry is by a Nimiq team member and is not eligible to win.
-  Nimiq Radio is a synchronized community radio powered by Nimiq Pay.
-  Add a song from YouTube, SoundCloud, Bandcamp, or Audius, pay a small NIM fee,
+description: Team member submission. This entry is not eligible to win.
+  Nimiq Radio is a community radio powered by Nimiq Pay.
+  Add a song from YouTube, SoundCloud, Bandcamp, or Audius, send a small NIM tx,
   and it joins a shared global queue that everyone hears together in real time.
 pricing: Free
 repo_url: https://github.com/PanoramicRum/nimiq-radio
