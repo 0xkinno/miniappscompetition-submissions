@@ -1,0 +1,30 @@
+app_name: TrustPay
+category: Shopping & deals
+tagline: Secure every transaction. Trust every deal.
+description: TrustPay is an escrow-powered Mini App that enables secure
+  buyer-seller transactions. It protects both parties by holding funds until the
+  buyer confirms successful delivery of goods or services, making online
+  shopping and marketplace deals safer and more trustworthy.
+pricing: Freemium
+repo_url: https://github.com/craxy220-prog/Trustpay-app
+demo_url: https://trustpay-1.netlify.app
+video_url: https://youtube.com/shorts/fOg4_-K5-Ic?si=VaI8VkRGS4TwEYZQ
+contact_email: sysky406@gmail.com
+team_name: Sysky
+team_members:
+  - Sulaiman Yusuf
+x_account: craxy220
+builder_story: "TrustPay was inspired by a common problem in online
+  transactions: buyers fear paying first, while sellers fear delivering without
+  getting paid. I wanted to remove that uncertainty by creating a decentralized
+  escrow solution that protects both parties. Built on the Nimiq ecosystem,
+  TrustPay makes digital transactions simple, secure, and based on transparency
+  instead of blind trust."
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+github_login: craxy220-prog
+submitted_at: 2026-07-30T09:57:53.387Z
