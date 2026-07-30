@@ -1,0 +1,45 @@
+app_name: EverRelay Mini
+category: Productivity
+tagline: Prepare your digital life before emergencies happen.
+description: EverRelay Mini helps users prepare for emergencies, device loss,
+  and family handover through secure Nimiq wallet connectivity and privacy-first
+  readiness assessments covering wallet recovery, insurance, trusted contacts,
+  digital assets, documentation, and security.
+pricing: Free
+repo_url: https://github.com/sopskistar/everrelay
+demo_url: https://everrelay-mini.vercel.app
+video_url: https://youtu.be/R2Ud-gp6_ug
+contact_email: julianahonour20@gmail.com
+team_name: null
+team_members: null
+x_account: sopskistar
+builder_story: "EverRelay Mini was inspired by a simple question: if something
+  unexpected happened today, would our families know how to recover or manage
+  our digital lives?\r
+
+  \r
+
+  As more of our finances, identities, insurance information, and digital assets
+  move online and on-chain, most people focus on protecting their wallets but
+  rarely prepare for emergencies, incapacity, or family handover. Important
+  insurance contacts, recovery plans, trusted contacts, and critical documents
+  are often scattered or never organized until it's too late.\r
+
+  \r
+
+  We built EverRelay Mini to help users assess their digital continuity without
+  taking custody of their wallets or collecting sensitive information. By
+  combining secure Nimiq wallet connectivity with practical readiness
+  assessments across wallet recovery, emergency contacts, insurance readiness,
+  digital assets, documentation, and security practices, EverRelay Mini gives
+  users a clear action plan to strengthen their preparedness before an emergency
+  happens."
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+github_login: sopskistar
+submitted_at: 2026-07-30T02:20:22.924Z
