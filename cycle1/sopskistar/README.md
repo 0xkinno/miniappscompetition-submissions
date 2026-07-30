@@ -19,7 +19,7 @@
 
 | Link | URL |
 | --- | --- |
-| Repo | [https://github.com/sopskistar/everrelay/tree/nimiq-miniapp](<https://github.com/sopskistar/everrelay/tree/nimiq-miniapp>) |
+| Repo | [https://github.com/sopskistar/everrelay](<https://github.com/sopskistar/everrelay>) |
 | Demo | [https://everrelay-mini.vercel.app](<https://everrelay-mini.vercel.app>) |
 | Video | [https://youtu.be/R2Ud-gp6_ug](<https://youtu.be/R2Ud-gp6_ug>) |
 
