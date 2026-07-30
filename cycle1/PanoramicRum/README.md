@@ -21,7 +21,7 @@
 | --- | --- |
 | Repo | [https://github.com/PanoramicRum/nimiq-radio](<https://github.com/PanoramicRum/nimiq-radio>) |
 | Demo | [https://radio.nimiqapps.com/](<https://radio.nimiqapps.com/>) |
-| Video | [https://github.com/PanoramicRum/nimiq-radio/blob/main/assets/demo.gif](<https://github.com/PanoramicRum/nimiq-radio/blob/main/assets/demo.gif>) |
+| Video | [https://x.com/i/status/2082852084643230035](<https://x.com/i/status/2082852084643230035>) |
 
 ## Description
 
