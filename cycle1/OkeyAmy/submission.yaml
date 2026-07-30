@@ -1,0 +1,41 @@
+app_name: Kolo
+category: Productivity
+tagline: Your circle saves together. Nimiq makes it trustless.
+description: "Eight people. Twenty dollars a week. One person collects the full
+  pot each round until everyone has had their turn. No bank. No middleman. No
+  one person holding everyone else's money.\r
+
+  This is how hundreds of millions of people outside formal banking already
+  save. It runs on tru"
+pricing: Free
+repo_url: https://github.com/OkeyAmy/kolo
+demo_url: https://kolo.okeyamy.xyz/
+video_url: https://youtube.com/shorts/luO6z1H69rY?feature=share
+contact_email: amaobiokeoma@gmail.com
+team_name: null
+team_members: null
+x_account: null
+builder_story: "I grew up watching my mum run a \"cooperative\" with her market
+  trader friends. Every Friday, nine women pooled their week and one person
+  walked away with enough to restock, pay school fees, or fix something that had
+  been broken for months. It worked because they all lived on the same street
+  and could find each other.\r
+
+  \r
+
+  The same practice exists in Nigeria as \"ajo,\" in Ghana as \"susu,\" across
+  West Africa, South Asia, and Latin America under dozens of names. Hundreds of
+  millions of people use it. None of them have a way to do it with someone they
+  met online, or someone who moved to another city.\r
+
+  I built Kolo because the coordination problem is solved. Nimiq handles the
+  trust. The memo field on every transaction is the receipt your mum's friends
+  never had."
+icon: icon.png
+thumbnail: thumbnail.jpg
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+github_login: OkeyAmy
+submitted_at: 2026-07-30T07:40:02.850Z
