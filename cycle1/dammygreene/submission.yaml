@@ -1,0 +1,43 @@
+app_name: Nimiq Pools
+category: Earning
+tagline: Predict together. Settle with ease.
+description: Nimiq Pools is a social prediction platform inside Nimiq Pay where
+  friends and communities create prediction pools, stake NIM, and receive
+  automatic or community-verified payouts. It's built for anyone who wants a
+  simple, transparent way to settle real-world predictions.
+pricing: Free
+repo_url: https://github.com/dammygreene/NimiqPools
+demo_url: https://nimiqpools.xyz/
+video_url: https://x.com/NimiqPools/status/2082902731648319652
+contact_email: adeyeleenoch01@gmail.com
+team_name: null
+team_members:
+  - Azeez
+x_account: nimiqpools
+builder_story: "Like many people, I've lost count of how many times friends have
+  said, \"I bet you're wrong,\" only for everyone to forget about it later.
+  Whether it's crypto price predictions, football matches, or friendly
+  challenges, there's never been a simple way to turn those moments into
+  something transparent and fun.\r
+
+  \r
+
+  That's what inspired Nimiq Pools. I wanted to build a lightweight social
+  prediction platform where anyone can create a prediction pool, stake NIM, and
+  have the outcome resolved fairly, either automatically from trusted data
+  sources or by the community itself.\r
+
+  \r
+
+  Nimiq's feeless payments and Mini App ecosystem made it possible to create an
+  experience where even small prediction pools feel instant and practical. My
+  goal wasn't to build another betting app, but to make friendly predictions
+  easy to create, easy to settle, and accessible to everyone inside Nimiq Pay."
+icon: icon.png
+thumbnail: thumbnail.jpg
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+github_login: dammygreene
+submitted_at: 2026-07-30T19:01:50.009Z
