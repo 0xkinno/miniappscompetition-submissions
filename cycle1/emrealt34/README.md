@@ -13,7 +13,7 @@
 | X account | NimJump |
 | Contact email | emre34altinok@gmail.com |
 | GitHub login | @emrealt34 |
-| Submitted at | 2026-07-10T20:21:58.814Z |
+| Submitted at | 2026-07-30T11:15:16.955Z |
 
 ## Links
 
@@ -21,33 +21,30 @@
 | --- | --- |
 | Repo | [https://github.com/nimjump/game](<https://github.com/nimjump/game>) |
 | Demo | [https://nimjump.zetashare.com](<https://nimjump.zetashare.com>) |
-| Video | [https://youtube.com/shorts/fmffN9FQpkM](<https://youtube.com/shorts/fmffN9FQpkM>) |
+| Video | [https://youtube.com/shorts/JklwqY97iUI](<https://youtube.com/shorts/JklwqY97iUI>) |
 
 ## Description
 
-NimJump is an endless vertical platformer game for Nimiq — jump, dodge, and climb as high as you can with tap or gyro-tilt controls. Every run is verified server-side: the client only sends its inputs, the backend replays the match itself, and verify
+NimJump is an endless vertical platformer game for Nimiq — jump, dodge, and climb as high as you can with tap or gyro-tilt controls. Every run is verified server-side: the client only sends its inputs, the backend replays the match itself, and only pays out if the replay matches
 
 ## Builder story
 
-What problem it solves
+I've been doing game development for almost 3 years, and I love web3 games as a player too — that's what made the cheating problem stand out to me: in most "score = money" games, the client claims a score and the backend just takes its word for it. Fixing that structurally is the actual core of NimJump — everything else is built around it. The client has zero authority: it only records raw inputs. The server replays those inputs itself and only trusts its own recomputed result — if it doesn't match exactly, the run is rejected. Every reward (leaderboard rank, quests, coin conversion) is granted purely off that server-side result.
 
-I heard about this competition about a month ago and I've been building on NimJump nonstop since. I've been doing game development for a long time now, almost 3 years, and I genuinely love web3 games as a player too — I just hadn't worked on one myself until this project. That's actually what made the cheating problem stand out to me so much: playing "score = money" games from the other side and seeing how easy most of them are to cheat — the client claims a score, and the backend just takes its word for it. Building something genuinely, structurally resistant to that from the ground up was a real dream of mine, not a checkbox to tick, and it's the actual core of this project — everything else is built around it, not the other way around.
-NimJump closes that hole completely. The client never has authority — it only sends the raw inputs from the run. The server replays those inputs itself and only trusts its own recomputed result. If it doesn't match exactly, the run is rejected. The client has zero authority beyond recording what the player did — no score, no quest completion, nothing is ever taken at face value.
+There's also a reward-farming guard: every NIM claim is checked per-IP, max 2 wallets paid per IP per day, so throwaway accounts on one connection don't work.
 
-Every reward — leaderboard rank, streak claims, quests, coin conversion — is granted purely off that server-side result.
+Recording inputs instead of video also compresses well — a full minute of typical play is around 200 bytes, so under 1GB holds well over 5 million replayable runs. I never have to throw anything away — every leaderboard score has its real replay behind it.
 
-There's also a reward-farming problem this solves: on top of the score itself being unfakeable, every NIM claim is checked against a per-IP guard. At most 2 wallets can get paid from the same IP per day, so stacking throwaway accounts on one connection doesn't work either.
+Built in Godot 4.7, with tap or gyroscope tilt controls both supported.
 
-Recording inputs instead of video turned out to have a huge bonus: a full minute of play compresses down to under 300 bytes, so under 1GB can hold more than 2 million complete, re-playable runs. That's efficient enough that I never have to throw anything away — every score on the public leaderboard has its actual replay sitting right behind it, Nothing on that leaderboard is ever just a trusted number with no way to check it.
+For retention: a daily login streak, daily/weekly leaderboard resets, and daily quests give players a reason to come back each day instead of playing once.
 
-I also wanted the game to be technically sound, as well as really enjoy playing: tilt controls with touch or gyroscope are available in my game
+One of the newer additions is VS mode — 1v1 wagered challenges where two players stake NIM, play the same seed, and the higher score takes the pot. It gives NIM real in-game utility (circulating between players, not just paid out one-way), and it turned into an organic growth loop — players stake and send the challenge link directly to friends, pulling new people in through invites instead of ads. Same anti-cheat guarantee applies: both replays are server-verified before payout.
 
-I also cared a lot about giving people a reason to come back the next day instead of playing once and forgetting about it — that's what the daily login streak, the daily/weekly leaderboard resets, and the daily quests are actually for, not just there to pad out the feature list.
-
-I've been working on NimJump since the day this competition was first announced — about a month now — and I ran it publicly for 1 weeks during that time, not just tested it privately. In that window, 15 different real users found and played the game. I've attached link of the stats and activity from that period — please take a look. 
+I've been building NimJump since the competition was announced — about a month — and it's been running publicly that whole time, not just tested privately. In the first week, 15 different real users found and played it — by the most recent week, that had grown to a total of 28 users. Full stats published here:
 https://www.skool.com/miniappscompetition/nimjump-release
-
 https://www.skool.com/miniappscompetition/nimjump-update
+https://www.skool.com/miniappscompetition/nimjump-stats-update-last-post-before-competition
 
 ## Thumbnail
 
@@ -57,13 +54,13 @@ https://www.skool.com/miniappscompetition/nimjump-update
 
 ![Screenshot 1](screenshot-1.jpg)
 
-![Screenshot 2](screenshot-2.png)
+![Screenshot 2](screenshot-2.jpg)
 
-![Screenshot 3](screenshot-3.png)
+![Screenshot 3](screenshot-3.jpg)
 
-![Screenshot 4](screenshot-4.png)
+![Screenshot 4](screenshot-4.jpg)
 
-![Screenshot 5](screenshot-5.png)
+![Screenshot 5](screenshot-5.jpg)
 
 ---
 
