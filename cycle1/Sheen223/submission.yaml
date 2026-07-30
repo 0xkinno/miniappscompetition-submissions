@@ -1,0 +1,30 @@
+app_name: Renda Signal
+category: Marketplaces
+tagline: Make your message matter.
+description: Send funded requests to anyone on X, with visible payment and
+  protected delivery. Recipients get paid when the requested work is completed.
+pricing: Free
+repo_url: https://github.com/Sheen223/Renda-Signal
+demo_url: https://rendasignal.xyz
+video_url: https://youtu.be/jQBXfb57l8E?si=TGdOxj7QnUlK4qff
+contact_email: nsomiari@gmail.com
+team_name: null
+team_members: null
+x_account: Sandsk1n
+builder_story: "As a builder, I often need help from other builders. Whether
+  it’s technical advice or honest feedback on a project. But getting someone’s
+  attention is difficult, especially when everyone is busy.\r
+
+  \r
+
+  I built Renda Signal so I can show that I genuinely value their time by
+  putting real money behind my request. It turns a cold ask into a clear, funded
+  offer and makes valuable feedback worth responding to."
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+github_login: Sheen223
+submitted_at: 2026-07-30T01:12:23.493Z
