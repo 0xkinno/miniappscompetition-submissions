@@ -1,13 +1,10 @@
 app_name: NimConnect
 category: Social
 tagline: Human-friendly crypto starts here.
-description: Nimiq wallets identify you by a 44-character address — hard to
-  remember, awkward to share, impossible to build anything social around.
-  NimConnect fixes that. Claim a permanent @handle, get a public profile, and
-  use it to send, request, split, and tip NIM with people instead of strings.
-  Contacts, shared trip buckets, and a handle marketplace round it out — and
-  any Nimiq Mini App can plug into the same identity via the open
-  profile-client package.
+description: Nimiq addresses are long and impossible to build social features
+  around. NimConnect fixes that — claim an @handle, get a public profile, and
+  send, request, split, and tip NIM by handle. Contacts, trip buckets, and a
+  handle marketplace round it out, reusable by any Mini App.
 pricing: Free
 repo_url: https://github.com/NimMiniApps/NimConnect
 demo_url: https://nimconnect.nimiqminiapps.com
