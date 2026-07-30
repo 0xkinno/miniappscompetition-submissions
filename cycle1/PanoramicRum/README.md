@@ -25,7 +25,7 @@
 
 ## Description
 
-Team member submission: this entry is by a Nimiq team member and is not eligible to win. Nimiq Radio is a synchronized community radio powered by Nimiq Pay. Add a song from YouTube, SoundCloud, Bandcamp, or Audius, pay a small NIM fee, and it joins a shared global queue that everyone hears together in real time.
+Team member submission. This entry is not eligible to win. Nimiq Radio is a community radio powered by Nimiq Pay. Add a song from YouTube, SoundCloud, Bandcamp, or Audius, send a small NIM tx, and it joins a shared global queue that everyone hears together in real time.
 
 ## Builder story
 
