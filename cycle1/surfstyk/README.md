@@ -1,6 +1,6 @@
 # Stakes
 
-> Put your money where your mouth is — with your crew.
+> An app to quit quitting.
 
 <img src="icon.png" alt="App icon" width="128">
 
@@ -13,7 +13,7 @@
 | X account | surfstyk |
 | Contact email | surfstyk@yahoo.com |
 | GitHub login | @surfstyk |
-| Submitted at | 2026-07-29T06:10:25.760Z |
+| Submitted at | 2026-07-31T06:43:36.186Z |
 
 ## Links
 
@@ -21,17 +21,17 @@
 | --- | --- |
 | Repo | [https://github.com/surfstyk/stakes](<https://github.com/surfstyk/stakes>) |
 | Demo | [https://stakes.surfstyk.com](<https://stakes.surfstyk.com>) |
-| Video | [https://youtu.be/VguXZFhnG5U](<https://youtu.be/VguXZFhnG5U>) |
+| Video | [https://www.youtube.com/watch?v=ptgumWH57r4](<https://www.youtube.com/watch?v=ptgumWH57r4>) |
 
 ## Description
 
-A social commitment game where you stake a little NIM on a weekly goal and your friends keep you honest: check in daily and get it all back plus a bonus, or forfeit a slice for every day you miss. For anyone who's ever quit a good habit and wished the stakes were real.
+An app to quit quitting. Stake a little NIM on a weekly goal, check in each day, and get it all back plus a bonus when you follow through. Miss a day and you forfeit that slice. No tracking, no AI: your crew keeps you honest.
 
 ## Builder story
 
-I kept quitting the things I cared about — the gym, the writing, the early mornings — not because I couldn't, but because nothing was on the line and no one was watching. Habit apps try to fix that with streaks, notifications, and lately AI that literally watches you. That always felt like the wrong answer: surveillance, not trust.
+The idea came from my bathroom, not a brainstorm. My wife and I decided we'd take a cold shower every morning. No app, no protocol, just the two of us agreeing that's a thing we do now. It stuck. And it stuck for a reason that has almost nothing to do with willpower: it stuck because the other person knows. That's the whole product.
 
-Stakes is the opposite. You put a little real money on a goal and you do it with your friends — the people whose opinion actually moves you. Your crew keeps you honest, not an algorithm. And because it runs on Nimiq Pay, the money moves instantly and gaslessly, so it feels less like crypto and more like a bet between friends. That's the whole idea: make follow-through feel social, real, and a little bit at stake.
+Stakes lets anyone run that with their crew. You put a little NIM on a goal, your friends stake the same to join, and you check in once a day. Miss the window and that day's slice is gone; finish clean and you get it all back plus a bonus. I build AI agents for a living, so the obvious feature was a camera and a model to "verify" you actually did it. I left it out on purpose: the moment a model becomes the referee, what your friends were doing stops being trust and starts being compliance. So the split is the brand — the money is handled by systems, the truth is handled by people. And because it runs on Nimiq Pay, the stake moves in one native tap: no gas, no seed phrase, no crypto homework. It feels like a bet between friends. There just happens to be a blockchain underneath.
 
 ## Thumbnail
 

@@ -25,11 +25,11 @@
 
 ## Description
 
-NimConnect transforms your wallet into a people-first experience. Claim a permanent @handle, manage contacts, send and request payments, split bills, and use your identity seamlessly across Nimiq Mini Apps.
+Nimiq wallets identify you by a 44-character address — hard to remember, awkward to share, impossible to build anything social around. NimConnect fixes that. Claim a permanent @handle, get a public profile, and use it to send, request, split, and tip NIM with people instead of strings. Contacts, shared trip buckets, and a handle marketplace round it out — and any Nimiq Mini App can plug into the same identity via the open profile-client package.
 
 ## Builder story
 
-Crypto wallets are still built around long addresses instead of people. I wanted to create the missing identity layer for the Nimiq ecosystem—a place where users can claim human-readable @handles, manage relationships, and interact with others naturally. NimConnect makes payments feel personal while providing reusable identity infrastructure that any Nimiq Mini App can integrate.
+Every Mini App I tried re-solved "who is this wallet" from scratch, and users paid the tax of memorizing addresses. I wanted an identity layer other apps could reuse, not another silo. NimConnect answers four questions in one place — who am I (on-chain @handles, public profiles), who do I know (private, local-first contacts), how do we pay (send, request, split, tip), and how do we save together (shared trip buckets). Handles are ownable, so I built a marketplace to trade them with escrow-backed trades. Private data — notes, tags, contact history — never leaves the device; only what you choose to publish does. The whole thing ships as a reusable TypeScript client, so the next Mini App doesn't reinvent identity — it just resolves an @handle.
 
 ## Thumbnail
 
