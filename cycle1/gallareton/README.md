@@ -1,0 +1,60 @@
+# Nimble
+
+> Pay anyone with a six-digit code.
+
+<img src="icon.png" alt="App icon" width="128">
+
+| Field | Value |
+| --- | --- |
+| Category | Shopping & deals |
+| Pricing | Free |
+| Team name | _Not provided — optional_ |
+| Team members | _Not provided — optional_ |
+| X account | _Not provided — optional_ |
+| Contact email | gallareton@gmail.com |
+| GitHub login | @gallareton |
+| Submitted at | 2026-07-30T21:40:56.848Z |
+
+## Links
+
+| Link | URL |
+| --- | --- |
+| Repo | [https://github.com/gallareton/nimble](<https://github.com/gallareton/nimble>) |
+| Demo | [https://nimble.gallareton.pl/](<https://nimble.gallareton.pl/>) |
+| Video | [https://youtu.be/f0s0mHz4v-4](<https://youtu.be/f0s0mHz4v-4>) |
+
+## Description
+
+Nimble brings BLIK-style code payments to Nimiq Pay: the payer shows a six-digit code, the receiver types the amount and the code, and both phones follow the payment live until it's confirmed on-chain. For friends splitting bills and small vendors who want cash-simple crypto paym
+
+## Builder story
+
+I'm from Poland, where BLIK proved something remarkable: people happily pay each other with a short one-time code. Not because it's trendy —   because it's safer than everything it replaced.
+
+Think about how crypto payments work today. QR codes can be swapped — a sticker over a merchant's code redirects money to a thief, and no human can tell the difference by looking. Payment links can be phished, spoofed, and hijacked by clipboard malware; a wallet address is an unreadable hash you have to trust blindly, because nobody verifies 40 characters by eye. Every one of these carries the same flaw: the thing you scan, click or paste is the credential, and stealing or replacing it steals the money.
+
+A six-digit one-time code has none of these properties. It's not a credential — it's a locator: it can't receive money, it pairs exactly two sessions, it's claimed atomically by the first user, dies after 120 seconds or a single use, and guessing is defeated by rate limits and uniform errors. You can say it out loud across a market stall — worthless to anyone overhearing. And the code moves no value: before anything is signed, the payer sees on their own screen who gets paid and exactly how much, and approves in the wallet. There is nothing to swap, nothing to phish, nothing to misread.
+
+Nimble ports that entire interaction to Nimiq. The payer shows a code inside a countdown ring; the receiver — a friend, a market vendor — types the amount, a note, and the code. Both screens follow the payment live: paid within seconds of inclusion, finalized by Albatross in the background. If the app dies mid-payment, the backend reconciles the transfer on-chain via a token in the transaction's data field. Amounts are integer luna end to end.
+
+I built Nimble because Nimiq's instant finality is the missing ingredient BLIK-style payments need on a blockchain — and because handing someone money should be as safe as telling them a number that will be worthless a minute later.
+
+## Thumbnail
+
+![Thumbnail](thumbnail.png)
+
+## Screenshots
+
+![Screenshot 1](screenshot-1.jpg)
+
+![Screenshot 2](screenshot-2.jpg)
+
+![Screenshot 3](screenshot-3.jpg)
+
+![Screenshot 4](screenshot-4.jpg)
+
+![Screenshot 5](screenshot-5.jpg)
+
+---
+
+_Generated from the submission form. `submission.yaml` in this folder is the machine-readable source of truth._

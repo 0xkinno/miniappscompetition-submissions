@@ -1,0 +1,44 @@
+app_name: Piggy
+category: Earning
+tagline: Your onchain Piggy Bank  on NimiqPay
+description: Piggy is a Mini App inside Nimiq Pay that helps you save USDT,
+  optionally earn yield on your savings, borrow when you need cash without
+  breaking your vault, and build strong savings habits with friends
+pricing: Free
+repo_url: https://github.com/roadsidedev/piggy-nimq
+demo_url: https://piggy-vault.vercel.app/
+video_url: https://youtu.be/i6eku_S2rLM?si=tgCs3IZWlaVTVBku
+contact_email: roadsidelabinc@gmail.com
+team_name: tonywtf
+team_members:
+  - tonywtf
+x_account: "project: @piggyvault__ , Founder: @tonywtf__"
+builder_story: "As someone working to improve my savings habits and build real
+  financial independence, I wanted a pocket-friendly piggy bank fit for the
+  digital, onchain age. I wanted a place to save my USDT with ease — no KYC, no
+  bank accounts, no friction. Somewhere I could save as I earn.\r
+
+  \r
+
+  So I built Piggy: my onchain piggy bank, inside Nimiq Pay.\r
+
+  \r
+
+  We built Piggy to help anyone develop a strong savings culture. Deposit USDT
+  into your vault and optionally earn yield on top. Need cash in an emergency?
+  Borrow against your savings without breaking your vault. To make saving stick,
+  we added Save-with-Frens challenges — join or create challenges like “save $10
+  every day” and build streaks together. And to help you hit real goals, set
+  targeted vaults for a vacation, a new laptop, or anything else.\r
+
+  \r
+
+  No bank apps. No KYC delays. Just your wallet, your vault, and your goals."
+icon: icon.png
+thumbnail: thumbnail.jpg
+screenshots:
+  - screenshot-1.jpg
+  - screenshot-2.jpg
+  - screenshot-3.jpg
+github_login: roadsidedev
+submitted_at: 2026-07-30T18:22:56.314Z
