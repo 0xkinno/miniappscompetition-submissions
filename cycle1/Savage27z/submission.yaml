@@ -1,0 +1,68 @@
+app_name: Collect
+category: Social
+tagline: One link. Everyone chips in. No accounts, no fees, no chasing.
+description: "Collect turns a group gift into one shareable link, everyone pays
+  their share in a single tap inside Nimiq Pay. No backend: contributions are
+  read straight off the Nimiq blockchain, so they can't be faked."
+pricing: Free
+repo_url: https://github.com/Savage27z/Collect
+demo_url: https://collect-nimiq.vercel.app
+video_url: https://youtube.com/shorts/phzDH0kxaCM?feature=share
+contact_email: savage27zzz@gmail.com
+team_name: null
+team_members: null
+x_account: savage27z
+builder_story: "Everyone has been in the group chat where one person fronts the
+  money for a gift\r
+
+  and then spends two weeks chasing everybody for their share. It's a small
+  problem,\r
+
+  but it's constant, and every reminder costs a little goodwill.\r
+
+  \r
+
+  The existing options all add friction — accounts, friend requests, fees, and
+  a\r
+
+  manual tally of who paid sitting in someone's notes app. Nimiq Pay removes
+  most of\r
+
+  that: the payer needs no account, settlement is instant, and fees are
+  negligible.\r
+
+  \r
+
+  The first version I built stored everything locally, and it looked fine until
+  I\r
+
+  tested it on two phones. The organiser's dashboard showed nothing, because
+  the\r
+
+  contribution only ever existed on the payer's device. That was the moment
+  the\r
+
+  project got interesting.\r
+
+  \r
+
+  The fix was to stop pretending I needed a backend. Every contribution is
+  already a\r
+
+  real Nimiq transaction, so I tag each one in the transaction's data field and
+  read\r
+
+  them back off the chain. Now every device sees the same truth, and nobody can
+  claim\r
+
+  a payment they never made."
+icon: icon.png
+thumbnail: thumbnail.png
+screenshots:
+  - screenshot-1.png
+  - screenshot-2.png
+  - screenshot-3.png
+  - screenshot-4.png
+  - screenshot-5.png
+github_login: Savage27z
+submitted_at: 2026-07-30T22:08:17.424Z
