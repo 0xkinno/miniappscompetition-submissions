@@ -9,7 +9,7 @@
 | Pricing | Free |
 | Team name | _Not provided — optional_ |
 | Team members | _Not provided — optional_ |
-| X account | 0xkinno |
+| X account | 0xkiddok |
 | Contact email | ojilerekingsley@gmail.com |
 | GitHub login | @0xkinno |
 | Submitted at | 2026-07-31T01:09:00.000Z |
